@@ -1,0 +1,14 @@
+@charset "UTF-8";
+p{
+	background:yellow ;
+}
+
+#holic1{
+	padding:25px
+}
+#holic2{
+	margin:25px
+}	
+#holic3{
+	margin:25px; padding:25px;
+}

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.shape{
+	border-left: 1px solid black;
+	border-right: 1px dashed black;
+	border-bottom: 1px double black;
+	border-top:1px dotted black
+}
+#color{
+ border-top:yellow medium solid 	;
+ border-bottom:green medium solid;
+ border-right :skyblue medium solid;
+ border-left: pink medium solid;
+ 
+ 
+}
+#thick{
+	border-top:thick black solid;
+	border-bottom:medium black solid;
+	border-left:thin black solid ; 
+	border-right:10px black solid;
+}

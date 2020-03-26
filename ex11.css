@@ -1,0 +1,12 @@
+@charset "UTF-8";
+p{
+	border:solid black medium;
+	background:yellow;
+	padding:60px
+}
+#radius{
+	border-radius: 15px 
+}
+#advanced{
+	border-radius:50px 
+}

@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#left{
+	text-align: left;
+}
+#middle{
+	text-align:center;
+	
+}
+#right{
+	text-align:right;
+}
+#middle{
+	
+ border-width:600px
+}

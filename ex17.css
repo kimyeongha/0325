@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+h1{
+	text-align:center;
+	font-weight:bold;
+	font-size:40px;
+}
+
+body{
+	background-image:url(../image/mugunghwa.png); /*여기 뒤에 바로 no-repeat 라고 적어도 바로 가능함*/
+	background-repeat:no-repeat;
+	background-position:center center;
+	
+}
+
+
+float{
+	float:left;
+	background:black;
+	width:100px;
+	height:100px;
+}
+
+

@@ -1,0 +1,35 @@
+@charset "UTF-8";
+#div1{
+	     width:100px;
+	     height:100px;
+	     background-color:green
+}
+#div2{
+	     width:100px;
+	     height:100px;
+	     background-color:red;
+	     position:relative;
+	     top:50px;
+	     left:50px;
+}
+#div3{
+	     width:100px;
+	     height:100px;
+	     background-color:green;
+	     position:relative;
+	     left:200px;
+	     top:-100px;
+	     padding:0px;
+	    
+}
+	     
+
+#div4{
+	    width:100px;
+	     height:100px;
+	     background-color:red;
+	     position:absolute;
+	     top:50px;
+	     left:50px;
+	     z-index:-1
+}

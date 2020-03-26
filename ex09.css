@@ -1,0 +1,16 @@
+@charset "UTF-8";
+#green{
+	border: 1px green solid
+}
+#red{
+	border:10px red dotted
+}
+#red2{
+   border:3px red dotted
+}
+#black{
+	border:10px black double
+}
+#black2{
+	border: 2px black solid;
+}

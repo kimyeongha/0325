@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+img{
+	width:100px;
+	      height:100px
+	
+}
+
+
+
+
+/* position디폴드 값이 static 인데 static 의 경우 얼마나 top / left 이런값 넣어도 반응 안함  */
+#div{
+	     
+	      position:absolute;
+	      top:50px;
+	      bottom:50px;
+	      left:0px;
+	      right:50px;
+
+}  
+
+
+#relative{
+	width:200px;
+	height:200px;
+	background-color:yellow;
+	position:relative;
+	top:100px;
+	left:100px;
+}
+
+

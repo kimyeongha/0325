@@ -1,0 +1,18 @@
+@charset "UTF-8";
+p{
+	font-size:60px
+}
+
+
+/*x y 불러(흐리게) 칼라*/
+#nomal{
+	text-shadow: 10px 5px 2px gray;
+	
+}
+#nomal4{
+	text-shadow:5px 2px 2px yellow;
+	background-color:black;
+	width: 400px;
+	color:red
+}
+

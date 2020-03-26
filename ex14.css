@@ -1,0 +1,18 @@
+@charset "UTF-8";
+p{
+	background: yellow;
+	
+	border:solid green
+	
+}
+#border-box{
+	width:300px;
+  box-sizing:border-box;
+	
+}
+#contents-box{
+	width:300px;
+	box-sizing:content-box;
+
+	
+}

@@ -1,0 +1,11 @@
+@charset "UTF-8";
+#bold{
+	font-weight:bold
+}
+#underline{
+	text-decoration:underline;
+}
+#oblic{
+	font-style:italic
+}
+

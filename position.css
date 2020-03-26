@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+
+#relative{
+	background:relative;
+	position:relative;
+	width:50px;
+	height:50px;
+    top:30px; /*일반 위치에서 value 만큼 움직임*/
+    left:20px;
+    background-color:red;
+    padding:50px
+    
+}
+#absolute{
+	background-color:skyblue;
+	position:absolute;
+	width:30px;
+	height:30px;
+	
+	left:200px;  /*가까운 상위 property 부터 value 만큼 움직임*/
+	bottom:0px;	
+}
+#fixed{
+	background: yellow;
+	width: 10px;
+	position:fixed;
+	border:3px green solid;
+	bottom:10px;
+	right:10px;
+	
+}
+
+#relative2{
+	background:black;
+	width:200px;
+	height:200px;
+	margin-top:100px;
+	margin-left:200px;
+	position:relative;
+	top: 1px;
+	left:1px
+	
+	
+}

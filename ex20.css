@@ -1,0 +1,19 @@
+@charset "UTF-8";
+table{
+	width:600px;
+  text-align:center;
+}
+	
+.odd{
+	background-color:gray;   /*class를 이용해서 하나만 색을 줘 얼룩말을 만든다.*/
+}
+tr:nth-child(2n-1){
+	background:gray;
+}
+tr:nth-child(2n){
+	background:red;
+}
+tr:nth-child(){
+	background:blue;
+}
+
